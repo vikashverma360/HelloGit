@@ -15,7 +15,7 @@ public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello git");
 		System.out.println("Another Repository");
-		System.out.println("Vikash repository");
+		System.out.println("Master repository");
 	}
 
 }
